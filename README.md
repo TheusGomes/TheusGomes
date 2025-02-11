@@ -1,6 +1,6 @@
 # [Matheus Gomes] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-Eu sou <strong>Matheus Gomes</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+Eu sou <strong>Matheus Gomes</strong>, <strong>estudante de Ciência da Computação </strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>C, HTML, CSS, PYTHON, JAVASCRIPT</strong> 
 - 💬 Pergunte-me sobre: <strong>jogo, programa, estudar</strong>
