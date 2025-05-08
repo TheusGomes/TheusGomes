@@ -2,7 +2,7 @@
 
 Eu sou <strong>Matheus Gomes</strong>, <strong>estudante de Ciência da Computação </strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>C, HTML, CSS, PYTHON, JAVASCRIPT</strong> 
+- 🚀 Atualmente estou aprendendo: <strong>C, HTML, CSS, PYTHON, JAVASCRIPT, JAVA</strong> 
 - 💬 Pergunte-me sobre: <strong>jogo, programa, estudar</strong>
 - 📣 Nós podemos falar em: <strong>Português Nativo, Inglês A2</strong>
 
